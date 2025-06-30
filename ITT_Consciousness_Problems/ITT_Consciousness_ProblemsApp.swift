@@ -11,7 +11,7 @@ import SwiftUI
 struct ITT_Consciousness_ProblemsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ConsciousnessProblemsView()
         }
     }
 }
